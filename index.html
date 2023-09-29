@@ -31,7 +31,8 @@
             <p>How do you do that? :)</p>
             <p class="text-right">Happy Birthday sayangg!</p>
             <p class="text-right">bebek</p>
-        </div>
+            function wa(isi) 
+    { window.open("https://api.whatsapp.com/send?text= Makasih ya udah inget ulang tahun aku, di hari spesial ini aku pengin " + isi); } async function tanya() { var { value: kado } = await swal.fire({ title: "Di hari spesial ini kamu pengin nya apa?", input: "text", showCancelButton: false, }); if (kado) { await swal.fire("Kirim jawabannya ke wa aku ya"); wa(kado); } else { await swal.fire("Jangan dikosongin dong"); tanya(); } } </script> 
     </div>
     <script src="script.js"></script>
 </body>
