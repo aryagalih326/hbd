@@ -5,6 +5,7 @@ body {
 	font-family: 'Indie Flower', cursive !important;
 	background-image: url('images/foto.jpg');
 	background-repeat: no-repeat;
+	background-size: cover;
 	margin: 0px;
 	padding: 0px;
 }
