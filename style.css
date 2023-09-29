@@ -3,7 +3,7 @@
 
 body {
 	font-family: 'Indie Flower', cursive !important;
-  background src: "images/WhatsApp Images .jpg";; /*CAPE HONEY*/
+  background-image: url(images/foto.jpg);; /*CAPE HONEY*/
 	margin: 0px;
 	padding: 0px;
 }
