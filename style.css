@@ -3,7 +3,8 @@
 
 body {
 	font-family: 'Indie Flower', cursive !important;
-  background: #FDE3A7; /*CAPE HONEY*/
+	background-image: url('images/foto.jpg');
+	background-repeat: no-repeat;
 	margin: 0px;
 	padding: 0px;
 }
