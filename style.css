@@ -5,9 +5,8 @@ body {
 	font-family: 'Indie Flower', cursive !important;
 	background-image: url('images/foto 2.jpg');
 	background-repeat: no-repeat;
-	background-size: contain;
-	margin: 0px;
-	padding: 0px;
+	background-size: cover;
+
 }
 
 ::selection {
