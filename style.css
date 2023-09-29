@@ -3,7 +3,8 @@
 
 body {
 	font-family: 'Indie Flower', cursive !important;
-  background-image: url(images/foto.jpg);; /*CAPE HONEY*/
+	background-image: url(images/foto.jpg);; /*CAPE HONEY*/
+	background-repeat: no-repeat;
 	margin: 0px;
 	padding: 0px;
 }
@@ -73,14 +74,14 @@ h4 {
 	transition: .7s;
 }
 
-/*.card .bark {
+.card .bark {
 	position: absolute;
 	background src: "#e0e1dc" ;
 	width: 100%;
 	height: 100%;
 	opacity: 0;
 	transition: .7s;
-}/*
+
 
 .card .imgBox img {
 	min-width: 250px;
